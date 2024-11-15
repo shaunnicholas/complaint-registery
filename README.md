@@ -1,4 +1,4 @@
-# Online Complaint Registration and Management System - Project Report
+# Online Complaint Registration and Management System
 
 ## Introduction
 The Online Complaint Registration and Management System is a website developed to streamline and enhance the process of handling and managing complaints. It allows users to submit complaints, track their status, interact with service agents and receive timely updates until their issues are resolved.
